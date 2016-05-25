@@ -6,11 +6,15 @@ This repository would assist you in adding social media profile to your respecti
 
 In the above you see the following:
  
+ 
  |Social Media Coding for Sites.html|
+ 
  
  |SocialMediaStyle.css|
  
+ 
  |SocialImages|
+ 
  
  
 In the Social Media Coding for Sites.html contains the markup language used for describing this web document.
