@@ -5,8 +5,11 @@ This repository would assist you in adding social media profile to your respecti
 
 
 In the above you see the following:
+ 
  |Social Media Coding for Sites.html|
+ 
  |SocialMediaStyle.css|
+ 
  |SocialImages|
  
  
